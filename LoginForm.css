@@ -1,0 +1,56 @@
+body{
+	background-image: url("http://wallpaperswide.com/download/milky_way_galaxy_2-wallpaper-1024x576.jpg");
+	padding: 0;
+	height: 100%
+    margin: 0;
+}
+#LoginForm{	
+    margin: auto;
+    width: 340px;
+    height: 300px;
+    background: #4e4d4d;
+    margin-top: 160px;
+    box-shadow: 7px 13px 37px #000000;
+    border-top: 4px solid #017bab;
+    padding: 20px 30px;
+    color: white;
+}
+#design {
+	font-size: 40px;
+}
+#LoginForm h6{
+	margin: 0;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid;
+    height: 40px;
+	margin-bottom: 30px;
+}
+#LoginForm a{
+	text-decoration: none;
+    color: white;
+    font-family: arial;
+    font-size: 14px;
+}
+#LoginForm a:hover{
+	text-decoration: underline;
+}
+#txtbox{
+    margin-bottom: 16px;
+    width: 100%;
+    border: 1px solid #017bab;
+    color: white;
+    background: #252323;
+    padding: 11px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#buttonl{
+	width: 100%;
+    border: none;
+    background: #017bab;
+    color: white;
+    height: 40px;
+    margin-bottom: 16px;
+}
